@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP STM32H7S3V8T6
+D Arm Cortex-M7 32-bit 600 MHz MCU, 64 KB flash, 620 KB RAM, Ethernet, 2x USB, 2x FD-CAN, advanced graphics and security, 2x 12-bit ADCs
+K
+F https://www.st.com/resource/en/datasheet/stm32h7s3a8.pdf
+$ENDCMP
+#
+#End Doc Library

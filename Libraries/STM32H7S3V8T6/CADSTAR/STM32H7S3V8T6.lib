@@ -1,0 +1,21 @@
+.STM32H7S3V8T6 :1 ;Arm Cortex-M7 32-bit 600 MHz MCU, 64 KB flash, 620 KB RAM, Ethernet, 2x USB, 2x FD-CAN, advanced graphics and security, 2x 12-bit ADCs
+QFP50P1600X1600X160-100N
+*STM IC
+*NGS
+*PLB 1="VBAT" 2="PC13" 3="PC14-OSC32_IN" 4="PC15-OSC32_OUT" 5="PH0-OSC_IN" 6="PH1-OSC_OUT" 7="NRST" 8="VSS_1" 9="VDD_1" 10="PC0" 11="PC1" 12="VSSA" 13="VREFM" 14="VREFP" 15="VDDA" 16="PA0" 17="PA1" 18="PA2" 19="PA3" 20="VSS_2" 21="PA4" 22="PA5" 23="VDD_2" 24="PA6" 25="PA7" 26="PB0" 27="PB1" 28="PB2" 29="PO1" 30="VDDXSPI1_1" 31="VSS_3" 32="PP4" 33="PP2" 34="PP3" 35="VSS_4" 36="VDDXSPI1_2" 37="PO5" 38="PO4" 39="PP5" 40="PP0" 41="VSS_5" 42="VDDXSPI1_3" &
+43="PP6" 44="PO2" 45="PP7" 46="PP1" 47="VSS_6" 48="VDDXSPI1_4" 49="PO0" 50="PB10" 51="PB11" 52="PB12" 53="PB13" 54="PB14" 55="PB15" 56="VCAP2" 57="VSS_7" 58="VDD_3" 59="PA8" 60="PA9" 61="PA10" 62="PA11" 63="PA12" 64="PA13" 65="PA14" 66="PA15" 67="VCAP3" 68="VSS_8" 69="VDD_4" 70="PC10" 71="PC11" 72="PC12" 73="PM0" 74="PM1" 75="PM2" 76="PM3" 77="VDD50USB" 78="VDD33USB" 79="VSSUSB" 80="PM5" 81="PM6" 82="DVDD" 83="PM8" 84="PM9" 85="VDD_5" 86="PM12" 87="PM11" &
+88="PM14" 89="PM13" 90="BOOT0" 91="PB3" 92="PB4" 93="PB5" 94="VCAP4" 95="VSS_9" 96="VDD_6" 97="PB6" 98="PB7" 99="PB8" 100="PB9"
+*MXP 100
+*DFN STM32H7S3V8T6
+~!Manufacturer_Name (STMicroelectronics)
+~!Manufacturer_Part_Number (STM32H7S3V8T6)
+~!Mouser Part Number (511-STM32H7S3V8T6)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/STMicroelectronics/STM32H7S3V8T6?qs=ZcfC38r4Povf4Epaiz0E6g%3D%3D)
+~!Arrow Part Number (STM32H7S3V8T6)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/stm32h7s3v8t6/stmicroelectronics?utm_currency=USD&region=nac)
+~!Link Datasheet (https://www.st.com/resource/en/datasheet/stm32h7s3a8.pdf)
+~!Height (1.6mm)
+~!3D_Model (STM32H7S3V8T6)
+STM32H7S3V8T6
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 13.1!U 14.1!U 15.1!U 16.1!U 17.1!U 18.1!U 19.1!U 20.1!U 21.1!U 22.1!U 23.1!U 24.1!U 25.1!U 26.1!U 27.1!U 28.1!U 29.1!U 30.1!U 31.1!U 32.1!U 33.1!U 34.1!U 35.1!U 36.1!U 37.1!U 38.1!U 39.1!U 40.1!U 41.1!U 42.1!U 43.1!U 44.1!U 45.1!U 46.1!U 47.1!U 48.1!U 49.1!U 50.1!U 75.1!U 74.1!U 73.1!U 72.1!U 71.1!U 70.1!U 69.1!U 68.1!U 67.1!U 66.1!U 65.1!U 64.1!U 63.1!U 62.1!U 61.1!U 60.1!U &
+59.1!U 58.1!U 57.1!U 56.1!U 55.1!U 54.1!U 53.1!U 52.1!U 51.1!U 100.1!U 99.1!U 98.1!U 97.1!U 96.1!U 95.1!U 94.1!U 93.1!U 92.1!U 91.1!U 90.1!U 89.1!U 88.1!U 87.1!U 86.1!U 85.1!U 84.1!U 83.1!U 82.1!U 81.1!U 80.1!U 79.1!U 78.1!U 77.1!U 76.1!U 

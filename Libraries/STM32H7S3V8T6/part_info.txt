@@ -1,0 +1,9 @@
+Manufacturer=STMicroelectronics
+PartNumber=STM32H7S3V8T6
+PartCategory=Integrated Circuit
+PackageCategory=Quad Flat Packages
+PinCount=100
+Version=3.1
+Released=2024-03-21 11:24:06
+Downloaded=2026-02-03 16:23:37
+3D=Y
