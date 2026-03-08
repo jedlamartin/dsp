@@ -1,0 +1,216 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "325bdb94-e736-4313-9eb9-5fc26a183629")
+	(paper "A4")
+	(lib_symbols)
+	(text "Custom STM32 DSP Board"
+		(exclude_from_sim no)
+		(at 199.39 189.738 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "6e0a6f82-be4e-47d9-85b7-b5e51d71b7d0")
+	)
+	(text_box "In: +5V from USB-C or Barrel Jack\n\nOut: - +3.3V VDD\n	 - +3.3V VDDA \n(for the codecs)"
+		(exclude_from_sim no)
+		(at 77.47 45.72 0)
+		(size 19.05 17.78)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.1 1.1)
+			)
+			(justify left)
+		)
+		(uuid "8572d7c8-e0ef-4d9b-87a4-81dd844bc4cd")
+	)
+	(sheet
+		(at 219.71 82.55)
+		(size 19.05 17.78)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "412f6b43-fbb2-481f-897d-7bd2ffbcae36")
+		(property "Sheetname" "Memory_XSPI"
+			(at 219.71 81.8384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Memory_XSPI.kicad_sch"
+			(at 219.71 100.9146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "dsp"
+				(path "/325bdb94-e736-4313-9eb9-5fc26a183629"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 99.06 45.72)
+		(size 19.05 17.78)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "44930186-1e93-414f-be0a-c2cd7693a413")
+		(property "Sheetname" "Power_Supply_LDOs"
+			(at 99.06 45.0084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Power_Supply_LDOs.kicad_sch"
+			(at 99.06 64.0846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "dsp"
+				(path "/325bdb94-e736-4313-9eb9-5fc26a183629"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 54.61 97.79)
+		(size 19.05 17.78)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "6eea79cf-0043-4cfa-b55d-c43fe8dba684")
+		(property "Sheetname" "Audio_Codecs_TAC5212"
+			(at 54.61 97.0784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Audio_Codecs_TAC5212.kicad_sch"
+			(at 54.61 116.1546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "dsp"
+				(path "/325bdb94-e736-4313-9eb9-5fc26a183629"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 137.16 81.28)
+		(size 19.05 17.78)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "96c3f0d3-9224-45e5-9fd9-92cbcdc7dcb4")
+		(property "Sheetname" "MCU_STM32H7S"
+			(at 137.16 80.5684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "MCU_STM32H7S.kicad_sch"
+			(at 137.16 99.6446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "dsp"
+				(path "/325bdb94-e736-4313-9eb9-5fc26a183629"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
